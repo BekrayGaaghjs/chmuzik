@@ -1,0 +1,35 @@
+{
+  "//1": "Chingle",
+  "name": "Chingle",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "genius-lyrics": "^4.2.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.4",
+    "ytdl-core-discord": "^1.2.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/join/3678810c-2f78-4117-81c2-e97f416996bb"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "Lrows"
+}
